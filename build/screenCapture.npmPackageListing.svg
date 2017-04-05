@@ -1,0 +1,16 @@
+<svg height="206" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="206" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-05 23:56:15 +0000    46488 byte  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-05 23:56:15 +0000     1117 byte  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-05 23:56:15 +0000    12873 byte  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-05 23:56:15 +0000       63 byte  angular2-jwt-test-helpers.d.ts</tspan>
+<tspan x="10" y="90">  4.  2017-04-05 23:56:15 +0000      283 byte  angular2-jwt-test-helpers.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-05 23:56:15 +0000      273 byte  angular2-jwt-test-helpers.js.map</tspan>
+<tspan x="10" y="122">  6.  2017-04-05 23:56:15 +0000     3357 byte  angular2-jwt.d.ts</tspan>
+<tspan x="10" y="138">  7.  2017-04-05 23:56:15 +0000    13931 byte  angular2-jwt.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-05 23:56:15 +0000    11207 byte  angular2-jwt.js.map</tspan>
+<tspan x="10" y="170">  9.  2017-04-05 23:56:15 +0000        1 byte  custom.d.ts</tspan>
+<tspan x="10" y="186"> 10.  2017-04-05 23:56:15 +0000     3383 byte  package.json</tspan>
+</text>
+</svg>
