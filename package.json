@@ -1,17 +1,40 @@
 {
-    "buildNpmdoc":"angular2-jwt",
+    "author": "kai zhu <kaizhu256@gmail.com>",
+    "buildNpmdoc": "angular2-jwt",
+    "description": "api documentation for [angular2-jwt (v0.2.0)](https://github.com/auth0/angular2-jwt#readme) [![npm package](https://img.shields.io/npm/v/npmdoc-angular2-jwt.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2-jwt) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2-jwt.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2-jwt)",
     "devDependencies": {
         "angular2-jwt": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "utility2": "kaizhu256/node-utility2#alpha"
     },
-    "name":"npmdoc-angular2-jwt",
+    "engines": {
+        "node": ">=4.0"
+    },
+    "homepage": "https://github.com/npmdoc/node-npmdoc-angular2-jwt",
+    "keywords": [
+        "documentation",
+        "angular2-jwt"
+    ],
+    "license": "MIT",
+    "main": "lib.npmdoc_angular2_jwt.js",
+    "name": "npmdoc-angular2-jwt",
+    "nameAlias": "npmdoc_angular2_jwt",
+    "nameOriginal": "npmdoc-angular2-jwt",
+    "os": [
+        "darwin",
+        "linux"
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/npmdoc/node-npmdoc-angular2-jwt"
     },
     "scripts": {
-        "build-ci": "utility2 shReadmeTest build_ci.sh"
+        "build-ci": "utility2 shReadmeTest build_ci.sh",
+        "env": "env",
+        "heroku-postbuild": "(set -e; npm install \"kaizhu256/node-utility2#alpha\"; utility2 shDeployHeroku)",
+        "postinstall": "if [ -f npm_scripts.sh ]; then ./npm_scripts.sh postinstall; fi",
+        "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
+        "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
     "version": "0.0.1"
 }
