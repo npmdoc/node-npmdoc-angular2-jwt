@@ -1,9 +1,14 @@
-# api documentation for  [angular2-jwt (v0.2.0)](https://github.com/auth0/angular2-jwt#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular2-jwt.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2-jwt) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2-jwt.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2-jwt)
-#### Helper library for handling JWTs in Angular 2
+# npmdoc-angular2-jwt
 
-[![NPM](https://nodei.co/npm/angular2-jwt.png?downloads=true)](https://www.npmjs.com/package/angular2-jwt)
+#### api documentation for  [angular2-jwt (v0.2.2)](https://github.com/auth0/angular2-jwt#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular2-jwt.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2-jwt) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2-jwt.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2-jwt)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-angular2-jwt/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-angular2-jwt_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular2-jwt/build/apidoc.html)
+#### Helper library for handling JWTs in Angular 2+
+
+[![NPM](https://nodei.co/npm/angular2-jwt.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/angular2-jwt)
+
+- [https://npmdoc.github.io/node-npmdoc-angular2-jwt/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-angular2-jwt/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-angular2-jwt/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular2-jwt/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-angular2-jwt/build/screenCapture.npmPackageListing.svg)
 
@@ -23,7 +28,7 @@
         "url": "https://github.com/auth0/angular2-jwt/issues"
     },
     "dependencies": {},
-    "description": "Helper library for handling JWTs in Angular 2",
+    "description": "Helper library for handling JWTs in Angular 2+",
     "devDependencies": {
         "@angular/common": "^2.4.2||^4.0.0",
         "@angular/compiler": "^2.4.2||^4.0.0",
@@ -52,10 +57,10 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "8ae34d357bbe8eac388d2472d694e9af92d79f40",
-        "tarball": "https://registry.npmjs.org/angular2-jwt/-/angular2-jwt-0.2.0.tgz"
+        "shasum": "c7ba295daffb837c698fbe83ecfe0ecfa29b3f4f",
+        "tarball": "https://registry.npmjs.org/angular2-jwt/-/angular2-jwt-0.2.2.tgz"
     },
-    "gitHead": "5f226455476ea7472d9ef6eb447b7a1a5a60ba54",
+    "gitHead": "a6984d1df9315cc52b22b9c57b8badc4b6d1f479",
     "homepage": "https://github.com/auth0/angular2-jwt#readme",
     "keywords": [
         "angular",
@@ -67,8 +72,7 @@
     "main": "angular2-jwt.js",
     "maintainers": [
         {
-            "name": "ryanchenkie",
-            "email": "ryanchenkie@gmail.com"
+            "name": "ryanchenkie"
         }
     ],
     "name": "angular2-jwt",
@@ -78,7 +82,6 @@
         "@angular/http": "^2.0.0||^4.0.0",
         "rxjs": "^5.0.0"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/auth0/angular2-jwt.git"
@@ -91,19 +94,9 @@
     },
     "types": "./angular2-jwt.d.ts",
     "typings": "./angular2-jwt.d.ts",
-    "version": "0.2.0"
+    "version": "0.2.2"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module angular2-jwt](#apidoc.module.angular2-jwt)
-
-
-
-# <a name="apidoc.module.angular2-jwt"></a>[module angular2-jwt](#apidoc.module.angular2-jwt)
 
 
 
