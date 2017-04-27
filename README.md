@@ -1,6 +1,6 @@
 # npmdoc-angular2-jwt
 
-#### api documentation for  [angular2-jwt (v0.2.2)](https://github.com/auth0/angular2-jwt#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular2-jwt.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2-jwt) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2-jwt.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2-jwt)
+#### basic api documentation for  [angular2-jwt (v0.2.3)](https://github.com/auth0/angular2-jwt#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular2-jwt.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2-jwt) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2-jwt.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2-jwt)
 
 #### Helper library for handling JWTs in Angular 2+
 
@@ -57,10 +57,10 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "c7ba295daffb837c698fbe83ecfe0ecfa29b3f4f",
-        "tarball": "https://registry.npmjs.org/angular2-jwt/-/angular2-jwt-0.2.2.tgz"
+        "shasum": "54efdda3ceedba85f6a37b165f22ac22b8adf021",
+        "tarball": "https://registry.npmjs.org/angular2-jwt/-/angular2-jwt-0.2.3.tgz"
     },
-    "gitHead": "a6984d1df9315cc52b22b9c57b8badc4b6d1f479",
+    "gitHead": "4cb5cfacb9cc276cd5748b1262b721fa04324db2",
     "homepage": "https://github.com/auth0/angular2-jwt#readme",
     "keywords": [
         "angular",
@@ -94,7 +94,8 @@
     },
     "types": "./angular2-jwt.d.ts",
     "typings": "./angular2-jwt.d.ts",
-    "version": "0.2.2"
+    "version": "0.2.3",
+    "bin": {}
 }
 ```
 
