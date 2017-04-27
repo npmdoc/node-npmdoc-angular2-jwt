@@ -6,7 +6,7 @@
 <tspan x="10" y="58">node_modules</tspan>
 <tspan x="10" y="74">├── UNMET PEER DEPENDENCY @angular/core@^2.0.0||^4.0.0</tspan>
 <tspan x="10" y="90">├── UNMET PEER DEPENDENCY @angular/http@^2.0.0||^4.0.0</tspan>
-<tspan x="10" y="106">├── angular2-jwt@0.2.2 </tspan>
+<tspan x="10" y="106">├── angular2-jwt@0.2.3 </tspan>
 <tspan x="10" y="122">└── UNMET PEER DEPENDENCY rxjs@^5.0.0</tspan>
 </text>
 </svg>
